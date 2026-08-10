@@ -12,15 +12,3 @@
 
 <br>
 
-## Selected work
-
-### MITEZ
-Building a cleaner way to connect people with the help they need.
-
-[mitez.org](https://mitez.org)
-
-<br>
-
-## Current stack
-
-`HTML` `CSS` `JavaScript` `React` `Git` `GitHub`
