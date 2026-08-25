@@ -26,17 +26,17 @@
 ```text
 building      MITEZ
 based         Gainesville, FL
-latest push   emerging-tech-site · 1h ago
-mitez.org     online · HTTP 200 · 367 ms
-last sync     Aug 25, 2026 · 2:00 PM EDT
+latest push   emerging-tech-site · 2h ago
+mitez.org     online · HTTP 200 · 330 ms
+last sync     Aug 25, 2026 · 2:47 PM EDT
 ```
 <!-- NOW:END -->
 
 ### /work
 
 <!-- WORK:START -->
-- **[MITEZ](https://mitez.org)** — [mitez-site](https://github.com/wowneutral/mitez-site) · JavaScript · pushed 15d ago
-- **[Emerging Tech](https://github.com/wowneutral/emerging-tech-site)** — [emerging-tech-site](https://github.com/wowneutral/emerging-tech-site) · HTML · pushed 1h ago
+- **[MITEZ](https://mitez.org)** — [mitez-site](https://github.com/wowneutral/mitez-site) · JavaScript · pushed 16d ago
+- **[Emerging Tech](https://github.com/wowneutral/emerging-tech-site)** — [emerging-tech-site](https://github.com/wowneutral/emerging-tech-site) · HTML · pushed 2h ago
 <!-- WORK:END -->
 
 ### /activity
