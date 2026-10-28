@@ -27,8 +27,8 @@
 building      MITEZ
 based         Gainesville, FL
 latest push   emerging-tech-site · 1d ago
-mitez.org     online · HTTP 200 · 261 ms
-last sync     Oct 28, 2026 · 7:31 AM EDT
+mitez.org     online · HTTP 200 · 321 ms
+last sync     Oct 28, 2026 · 1:17 PM EDT
 ```
 <!-- NOW:END -->
 
@@ -42,8 +42,8 @@ last sync     Oct 28, 2026 · 7:31 AM EDT
 ### /activity
 
 <!-- ACTIVITY:START -->
-- `  5d ago` · **[ECHO-Design-Studio](https://github.com/wowneutral/ECHO-Design-Studio)** · starred repository
-- ` 28d ago` · **[taste-skill](https://github.com/wowneutral/taste-skill)** · starred repository
+- `  6d ago` · **[ECHO-Design-Studio](https://github.com/wowneutral/ECHO-Design-Studio)** · starred repository
+- ` 29d ago` · **[taste-skill](https://github.com/wowneutral/taste-skill)** · starred repository
 - ` 29d ago` · **[GSAP](https://github.com/wowneutral/GSAP)** · starred repository
 - ` 29d ago` · **[react-bits](https://github.com/wowneutral/react-bits)** · starred repository
 - ` 29d ago` · **[gsap-skills](https://github.com/wowneutral/gsap-skills)** · starred repository
@@ -73,7 +73,136 @@ mitez.org/robots.txt
 
 <!-- ROBOTS:START -->
 ```text
-robots.txt fetch failed: URLError
+# mitez.org/robots.txt
+#
+# Free mentorship in whatever you want to learn. Gainesville, Florida.
+# Crawl all of it. There is nothing here we would rather you did not read.
+#
+# ---------------------------------------------------------------------
+# A NOTE TO WHOEVER EDITS THIS NEXT, because the instinct will be wrong.
+#
+# Almost every site added rules to BLOCK AI crawlers. We deliberately do
+# the opposite, and the list below is not an oversight.
+#
+# MITEZ has no ad budget, no backlinks and no domain authority. We are a
+# volunteer project nobody has heard of. The single most likely way a
+# parent in Gainesville finds us is by asking an assistant "where can my
+# kid get free tutoring", and getting an answer that mentions us.
+#
+# Blocking those crawlers to protect content would be protecting nothing.
+# We have no paywall, no proprietary data and no ad impressions to lose.
+# What we have is a service people cannot use if they never hear it
+# exists. Being quotable is the whole strategy.
+#
+# If you are about to add a Disallow here, be certain what it protects.
+# ---------------------------------------------------------------------
+
+User-agent: *
+Allow: /
+
+# Search
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Assistants and answer engines. Explicit, so the permission is a
+# decision on the record rather than something inherited from the
+# wildcard above and reversed by accident later.
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://mitez.org/sitemap.xml
+#
+#                       :=*%%#=-:
+#                     .-..+@@@+..-
+#                     =..-@@@@@=.-
+#                     =#-+@@@@%#-*
+#                     :*%%@@@@@@#:
+#                     ..*@@@@@@*:
+#                      .=****++:.
+#                       -=+++==.
+#                  .  .=%%@@@@%=.
+#        .  ..     :=*#*#%@@@%##*+-
+#        :*%%## -+##################+-..###%*:
+#       :%@@@%@##*#%%%%%%@@@@%%%%%%#*%+*%@@@@@=
+#      .%@@@@%@@#*@@@@@@@@@@@@@@@@@%##@@@%@@@@@.
+#      -@@@@%@@@%*@@@@@@@@@@@@@@@@@@*%@@@%@@@@@=
+#      #@@@%#: :+*%@@@@@@@@@@@@@@@@%#*=-=%%@@@@*
+#     :%@@@#=   :#%@@@@@@@@@@@@@@@%##    +#@@@@%
+#     =%@@%#.    *#@@@@@@@@@@@@@@@##:    -#@@@@%
+#     #@@@%+     :#%@@@@@@@@@@@@@%#=     .#%@@@%:
+#   .:*@@@+       .#@@@@@@@@@@@@@#-       +@@@%%=.
+#   #***##:        -%@@@@@@@@@@@%:        =%##*##%:
+#   #####**        :#%%%%@@@%%%%=        =%##**##%=
+#   *####**         ##%%%%%%%%%%.        ##***##%*
+#   =#####-         -*#%%%%%%##-       .:#%%%*#%+
+#   :%%%%%:     -#@@@%@%@@%@%@***=:  .*@@@%%%#+.
+#    +#%%@#+   .@@@@@@@@@@@@@@@@@@@* .=#@@@@+
+#     -%%%#=    *@@@@@@@@@@@@@@@@@@#  #%@@@+
+#      =@@%=   :%@@@#..:::::--=%@@@+   :=*:
+#       .:    .#@@@@@-        %@@@@@:
+#            :%#@@@@*         #@@@@@+.
+#            =%@@@@@%#:     :+%@@@@@#*
+#            -%@@@@@##=     *#%@@@@@%+
+#            -%@@@@@#%:     #*%@@@@@%=
+#            -%%@@@@*%.     %*%@@@@@#:
+#            -#%%%@%#%      %#%@@@@%#.
+#            .##%%%%#+      ##%@%%%%+
+#             :*####*       +#%%%%##:
+#             :@@%%%-        *####*:
+#             +@@@@@+       :@@@@@#
+#            .#@@@@@-       -@@@@@%
+#            :#%@@@#%#.   .=*@@@@@%
+#            :#%@@%*%%    +@##@@@%#:
+#            :#%@%##*.     *##%@@%#.
+#            :#%@%*%.      .%*%@@#*
+#             #%%##*        *#%@@#=
+#
+…
 ```
 <!-- ROBOTS:END -->
 
