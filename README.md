@@ -27,8 +27,8 @@
 building      MITEZ
 based         Gainesville, FL
 latest push   emerging-tech-site · 2d ago
-mitez.org     online · HTTP 200 · 398 ms
-last sync     Oct 29, 2026 · 3:09 AM EDT
+mitez.org     online · HTTP 200 · 416 ms
+last sync     Oct 29, 2026 · 10:23 AM EDT
 ```
 <!-- NOW:END -->
 
@@ -42,12 +42,8 @@ last sync     Oct 29, 2026 · 3:09 AM EDT
 ### /activity
 
 <!-- ACTIVITY:START -->
-- `  6d ago` · **[ECHO-Design-Studio](https://github.com/wowneutral/ECHO-Design-Studio)** · starred repository
-- ` 29d ago` · **[taste-skill](https://github.com/wowneutral/taste-skill)** · starred repository
-- ` 30d ago` · **[GSAP](https://github.com/wowneutral/GSAP)** · starred repository
-- ` 30d ago` · **[react-bits](https://github.com/wowneutral/react-bits)** · starred repository
-- ` 30d ago` · **[gsap-skills](https://github.com/wowneutral/gsap-skills)** · starred repository
-- ` 30d ago` · **[lenis](https://github.com/wowneutral/lenis)** · starred repository
+- `  7d ago` · **[ECHO-Design-Studio](https://github.com/wowneutral/ECHO-Design-Studio)** · starred repository
+- ` 30d ago` · **[taste-skill](https://github.com/wowneutral/taste-skill)** · starred repository
 <!-- ACTIVITY:END -->
 
 ### /stack
