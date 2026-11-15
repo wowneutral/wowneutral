@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="200" viewBox="0 0 412 200" role="img" aria-label="Contributions by day of week"><style>
+  .frame { fill: #0d1117; stroke: #30363d; }
+  .lbl { font: 600 10.5px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; letter-spacing: .08em; fill: #9198a1; }
+  .num { font: 600 32px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #f0f6fc; }
+  .num.on { fill: #000; }
+  .num.n28 { font-size: 28px; }
+  .big { font: 600 44px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #f0f6fc; }
+  .txt { font: 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+  .bold { font: 600 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+  .sm { font: 11.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #9198a1; }
+  .mono { font: 12.5px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #f0f6fc; }
+  .mute { fill: #9198a1; }
+  .acc { fill: #5fe6e8; }
+  .roll { animation: roll 1.1s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes roll { from { transform: translateY(0); } }
+  .grow { transform-box: fill-box; transform-origin: 50% 100%; animation: grow .7s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes grow { from { transform: scaleY(0); } }
+  .growx { transform-box: fill-box; transform-origin: 0 50%; animation: growx .8s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes growx { from { transform: scaleX(0); } }
+  .draw { stroke-dasharray: 1; animation: draw 1.2s ease-out backwards; }
+  @keyframes draw { from { stroke-dashoffset: 1; } }
+  .pop { animation: pop .4s ease-out backwards; }
+  @keyframes pop { from { opacity: 0; } }
+  .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+  @keyframes pulse { from { transform: scale(1); opacity: .55; } to { transform: scale(3.2); opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style><rect class="frame" x=".5" y=".5" width="411" height="199" rx="6"/><text class="lbl" x="24" y="34">BY WEEKDAY</text><text class="bold" x="24" y="54">Most work lands on Sundays</text><rect class="grow" x="30.0" y="70.0" width="40.0" height="86.0" rx="2" fill="#73f7f8" fill-opacity="1" style="animation-delay:0.00s"/><text class="sm" x="50.0" y="174" text-anchor="middle" font-size="10">Sun</text><text class="mono mute" x="50.0" y="64.0" text-anchor="middle" font-size="10" style="font-size:10px">16</text><rect class="grow" x="82.0" y="118.4" width="40.0" height="37.6" rx="2" fill="#5fe6e8" fill-opacity=".5" style="animation-delay:0.06s"/><text class="sm" x="102.0" y="174" text-anchor="middle" font-size="10">Mon</text><text class="mono mute" x="102.0" y="112.4" text-anchor="middle" font-size="10" style="font-size:10px">7</text><rect class="grow" x="134.0" y="145.2" width="40.0" height="10.8" rx="2" fill="#5fe6e8" fill-opacity=".5" style="animation-delay:0.12s"/><text class="sm" x="154.0" y="174" text-anchor="middle" font-size="10">Tue</text><text class="mono mute" x="154.0" y="139.2" text-anchor="middle" font-size="10" style="font-size:10px">2</text><rect class="grow" x="186.0" y="154.0" width="40.0" height="2.0" rx="2" fill="#5fe6e8" fill-opacity=".5" style="animation-delay:0.18s"/><text class="sm" x="206.0" y="174" text-anchor="middle" font-size="10">Wed</text><text class="mono mute" x="206.0" y="148.0" text-anchor="middle" font-size="10" style="font-size:10px">0</text><rect class="grow" x="238.0" y="150.6" width="40.0" height="5.4" rx="2" fill="#5fe6e8" fill-opacity=".5" style="animation-delay:0.24s"/><text class="sm" x="258.0" y="174" text-anchor="middle" font-size="10">Thu</text><text class="mono mute" x="258.0" y="144.6" text-anchor="middle" font-size="10" style="font-size:10px">1</text><rect class="grow" x="290.0" y="129.1" width="40.0" height="26.9" rx="2" fill="#5fe6e8" fill-opacity=".5" style="animation-delay:0.30s"/><text class="sm" x="310.0" y="174" text-anchor="middle" font-size="10">Fri</text><text class="mono mute" x="310.0" y="123.1" text-anchor="middle" font-size="10" style="font-size:10px">5</text><rect class="grow" x="342.0" y="80.8" width="40.0" height="75.2" rx="2" fill="#5fe6e8" fill-opacity=".5" style="animation-delay:0.36s"/><text class="sm" x="362.0" y="174" text-anchor="middle" font-size="10">Sat</text><text class="mono mute" x="362.0" y="74.8" text-anchor="middle" font-size="10" style="font-size:10px">14</text></svg>

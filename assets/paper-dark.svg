@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" role="img" aria-label="Not in Mauthner&#x27;s Sense: 13 views, 6 downloads"><style>
+  .frame { fill: #0d1117; stroke: #30363d; }
+  .lbl { font: 600 10.5px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; letter-spacing: .08em; fill: #9198a1; }
+  .num { font: 600 32px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #f0f6fc; }
+  .num.on { fill: #000; }
+  .num.n28 { font-size: 28px; }
+  .big { font: 600 44px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #f0f6fc; }
+  .txt { font: 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+  .bold { font: 600 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+  .sm { font: 11.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #9198a1; }
+  .mono { font: 12.5px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #f0f6fc; }
+  .mute { fill: #9198a1; }
+  .acc { fill: #5fe6e8; }
+  .roll { animation: roll 1.1s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes roll { from { transform: translateY(0); } }
+  .grow { transform-box: fill-box; transform-origin: 50% 100%; animation: grow .7s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes grow { from { transform: scaleY(0); } }
+  .growx { transform-box: fill-box; transform-origin: 0 50%; animation: growx .8s cubic-bezier(.2,.7,.2,1) backwards; }
+  @keyframes growx { from { transform: scaleX(0); } }
+  .draw { stroke-dasharray: 1; animation: draw 1.2s ease-out backwards; }
+  @keyframes draw { from { stroke-dashoffset: 1; } }
+  .pop { animation: pop .4s ease-out backwards; }
+  @keyframes pop { from { opacity: 0; } }
+  .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+  @keyframes pulse { from { transform: scale(1); opacity: .55; } to { transform: scale(3.2); opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style><rect class="frame" x=".5" y=".5" width="839" height="119" rx="6"/><text class="lbl" x="24" y="34">PAPER · ZENODO</text><text class="bold" x="24" y="66">Not in Mauthner&#x27;s Sense</text><text class="sm" x="24" y="88">Wittgenstein, Mauthner and the skeptic&#x27;s critique of language · doi:10.5281/zenodo.23652238</text><clipPath id="o15"><rect x="686" y="48.8" width="18.8" height="33.6"/></clipPath><g clip-path="url(#o15)"><g class="roll" style="transform: translateY(-201.6px); animation-delay: 0.00s"><text class="num n28" x="686.0" y="74.0">0</text><text class="num n28" x="686.0" y="107.6">1</text><text class="num n28" x="686.0" y="141.2">2</text><text class="num n28" x="686.0" y="174.8">3</text><text class="num n28" x="686.0" y="208.4">4</text><text class="num n28" x="686.0" y="242.0">5</text><text class="num n28" x="686.0" y="275.6">6</text><text class="num n28" x="686.0" y="309.2">7</text><text class="num n28" x="686.0" y="342.8">8</text><text class="num n28" x="686.0" y="376.4">9</text></g></g><text class="lbl" x="686.0" y="34">DOWNLOADS</text><text class="sm" x="686.0" y="96">new this week</text><clipPath id="o16"><rect x="556" y="48.8" width="35.6" height="33.6"/></clipPath><g clip-path="url(#o16)"><g class="roll" style="transform: translateY(-33.6px); animation-delay: 0.15s"><text class="num n28" x="556.0" y="74.0">0</text><text class="num n28" x="556.0" y="107.6">1</text><text class="num n28" x="556.0" y="141.2">2</text><text class="num n28" x="556.0" y="174.8">3</text><text class="num n28" x="556.0" y="208.4">4</text><text class="num n28" x="556.0" y="242.0">5</text><text class="num n28" x="556.0" y="275.6">6</text><text class="num n28" x="556.0" y="309.2">7</text><text class="num n28" x="556.0" y="342.8">8</text><text class="num n28" x="556.0" y="376.4">9</text></g><g class="roll" style="transform: translateY(-100.8px); animation-delay: 0.22s"><text class="num n28" x="572.8" y="74.0">0</text><text class="num n28" x="572.8" y="107.6">1</text><text class="num n28" x="572.8" y="141.2">2</text><text class="num n28" x="572.8" y="174.8">3</text><text class="num n28" x="572.8" y="208.4">4</text><text class="num n28" x="572.8" y="242.0">5</text><text class="num n28" x="572.8" y="275.6">6</text><text class="num n28" x="572.8" y="309.2">7</text><text class="num n28" x="572.8" y="342.8">8</text><text class="num n28" x="572.8" y="376.4">9</text></g></g><text class="lbl" x="556.0" y="34">VIEWS</text><text class="sm" x="556.0" y="96">new this week</text></svg>

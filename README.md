@@ -40,6 +40,13 @@ I run **[MITEZ](https://mitez.org)**, free one-to-one mentorship in whatever you
 #### Things I've built
 
 <!-- WORK:START -->
+| Project | What it is | Live |
+| --- | --- | --- |
+| **[Spread](https://wowneutral.github.io/spread/)** | Free, open-source card cutting and flowing for debaters on Chromebooks. A Verbatim alternative that works offline. | <sub>[pushed 2 months ago](https://github.com/wowneutral/spread) · 2 stars</sub> |
+| **[Skeptical](https://skeptical.pages.dev)** | The team's site, with a Discord sign-in portal for coaches. React, GSAP, Cloudflare Pages and D1. | <sub></sub> |
+| **[MITEZ](https://mitez.org)** | The nonprofit's site. React and Vite. | <sub>[pushed 3 months ago](https://github.com/wowneutral/mitez-site) · 1 star</sub> |
+| **[A Living World](https://armaanseth.pages.dev)** | My portfolio, built as one scrolling three.js scene. | <sub></sub> |
+| **[Rogue](https://clauderogue.netlify.app)** | How far an AI can carry a build on its own, and where the seams show. | <sub></sub> |
 <!-- WORK:END -->
 
 #### Writing
@@ -51,6 +58,7 @@ Also on [PhilArchive](https://philarchive.org/rec/SETTOQ) and [Google Scholar](h
 #### Lately
 
 <!-- ACTIVITY:START -->
+<sub>24 days ago — starred [ECHO-Design-Studio](https://github.com/wowneutral/ECHO-Design-Studio)</sub><br>
 <!-- ACTIVITY:END -->
 
 #### Elsewhere
