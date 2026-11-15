@@ -1,0 +1,40 @@
+# Draws the koi at the top of the README from public activity, every night.
+# https://github.com/yalongwastaken/git-koi
+name: Koi
+
+on:
+  schedule:
+    # Just after midnight UTC, so the koi shows the day that just ended.
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/koi.yml]
+
+permissions:
+  contents: write
+
+# Shares a group with update-profile so the two never push at once.
+concurrency: profile-push
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yalongwastaken/git-koi@v1
+        with:
+          # white, black, asagi, tea, gold, or platinum
+          body: white
+          output-dir: koi
+      - name: Commit the koi if it changed
+        run: |
+          git add koi/koi.gif
+          if git diff --cached --quiet; then
+            echo "The koi is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet -m "koi: draw the day's koi"
+          git pull --rebase --quiet
+          git push --quiet
