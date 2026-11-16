@@ -58,8 +58,10 @@ Also on [PhilArchive](https://philarchive.org/rec/SETTOQ) and [Google Scholar](h
 #### Lately
 
 <!-- ACTIVITY:START -->
-<sub>12 hours ago — created a branch in [skeptical-draft2](https://github.com/wowneutral/skeptical-draft2)</sub><br>
-<sub>24 days ago — starred [ECHO-Design-Studio](https://github.com/wowneutral/ECHO-Design-Studio)</sub><br>
+<sub>17 hours ago — pushed 1 commit to [skeptical-draft2](https://github.com/wowneutral/skeptical-draft2)</sub><br>
+<sub>13 hours ago — pushed 1 commit to [skeptical-draft2](https://github.com/wowneutral/skeptical-draft2)</sub><br>
+<sub>23 hours ago — created a branch in [skeptical-draft2](https://github.com/wowneutral/skeptical-draft2)</sub><br>
+<sub>25 days ago — starred [ECHO-Design-Studio](https://github.com/wowneutral/ECHO-Design-Studio)</sub><br>
 <!-- ACTIVITY:END -->
 
 #### Elsewhere

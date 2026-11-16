@@ -3,14 +3,17 @@
   "mitez.org": [
    true,
    true,
+   true,
    true
   ],
   "skeptical": [
    true,
    true,
+   true,
    true
   ],
   "portfolio": [
+   true,
    true,
    true,
    true
