@@ -58,6 +58,7 @@ Also on [PhilArchive](https://philarchive.org/rec/SETTOQ) and [Google Scholar](h
 #### Lately
 
 <!-- ACTIVITY:START -->
+<sub>9 hours ago — pushed 1 commit to [skeptical-draft2](https://github.com/wowneutral/skeptical-draft2)</sub><br>
 <sub>yesterday — pushed 1 commit to [skeptical-draft2](https://github.com/wowneutral/skeptical-draft2)</sub><br>
 <sub>2 days ago — pushed 1 commit to [skeptical-draft2](https://github.com/wowneutral/skeptical-draft2)</sub><br>
 <sub>2 days ago — created a branch in [skeptical-draft2](https://github.com/wowneutral/skeptical-draft2)</sub><br>
