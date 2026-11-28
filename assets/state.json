@@ -37,6 +37,7 @@
    true,
    true,
    true,
+   true,
    true
   ],
   "skeptical": [
@@ -76,9 +77,11 @@
    true,
    true,
    true,
+   true,
    true
   ],
   "portfolio": [
+   true,
    true,
    true,
    true,
@@ -192,6 +195,12 @@
    "downloads": 9
   },
   "2026-11-27": {
+   "stars": 5,
+   "followers": 2,
+   "views": 19,
+   "downloads": 9
+  },
+  "2026-11-28": {
    "stars": 5,
    "followers": 2,
    "views": 19,
